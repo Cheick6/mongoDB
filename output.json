@@ -1,0 +1,17 @@
+[
+  {
+    "id": "A",
+    "name": "Livreur A",
+    "accept_rate": "0.95"
+  },
+  {
+    "id": "B",
+    "name": "Livreur B",
+    "accept_rate": "0.80"
+  },
+  {
+    "id": "C",
+    "name": "Livreur C",
+    "accept_rate": "0.60"
+  }
+]
